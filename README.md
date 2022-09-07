@@ -27,8 +27,9 @@ In this chapter you will learn how to navigate between activity to activity, how
 In this chapter you will get an overview of Application Class, Manifest File for App to set App Icon , Name and Declaring the Activity. You will also learn about Gradle Build and How to implement third-library in gradle files. 
 - Android Application Class, Lifecycle Of Application.
 - Manifest ( activity, service, intent-filter, permission) 
-- Gradle ( Library Implementation, compileSdkVersion, buildToolsVersion, targetSdkVersion, minSdkVersion)  
-Chapter 5. Architecture Components
+- Gradle ( Library Implementation, compileSdkVersion, buildToolsVersion, targetSdkVersion, minSdkVersion) 
+ 
+## Chapter 5. Architecture Components
   Android JetPack Architecture Components has different library for making developer life easy. 
 - Learn usages of ViewModel for managing UI Data in Lifecycle-conscious way.    
 - LiveData For Observing changes of Data and Update UI 
